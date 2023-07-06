@@ -1,6 +1,6 @@
 {
-    "external_url": "PRODUCT_WEBSITE",
-    "name": "My Product License",
-    "description": "an NFT collection for selling MY PRODUCT License as NFT",
+    "external_url": "www.mywebsite.com",
+    "name": "Lime ERP Product License",
+    "description": "Lime ERP Digital License",
     "image": "https://ipfs.io/ipfs/NFT_IMAGE_CID"
 }
